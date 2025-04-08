@@ -1,3 +1,6 @@
+# Einops Implementation from Scratch
+Einops is a Python library that makes dealing with complex data way easier, especially if you're working with machine learning or data science. It lets you reshape and move around multi-dimensional arrays easily, which is super handy for anyone who's struggled with tricky tensor operations. I dived into its [GitHub repository](https://github.com/arogozhnikov/einops) and found it's packed with clever ways to handle data transformations that make your code look clean and straightforward. Checking out its codebase was very interesting and a good learning experience.
+
 # Flow:
 **Start** -> **Parse Pattern** -> **Input Analysis** -> **Decomposition** -> **Permutation** -> **Transpose** -> **Repetition Check** -> **Broadcast (if needed)** -> **Composition** -> **Validation & Output**
 
